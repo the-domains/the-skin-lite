@@ -1,0 +1,28 @@
+name: The Skin Lite
+favicon: null
+layout_spectrum: 0.9482852956280112
+typography_spectrum: 0.9839282450266182
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.38405371690168977
+  lightness: 0.9918852695263922
+  saturation: 0.7727826959453523
+  rhythmicContrast: 0.3105711950920522
+purpose: []
